@@ -91,10 +91,11 @@ rawdevart.com##.my-3
 es.symbolab.com###Plot_dynaimc > div.solution_box.solution_outside_box:last-child > div:last-child > a.print-hide.viewLargerPlot
 es.symbolab.com###show-hide-plot-div > a.show-hide-button.show-hide-plot.print-hide
 es.symbolab.com###canvasZoom
-brainly.lat###main-content > div.brn-qpage-layout__right.js-aside-content:nth-child(2) > div.js-react-aside-content.brn-ads-full-height.sg-flex.sg-flex--column
+es.symbolab.com###solution_right
 zcteam.id##.zctea-ending-1
 zcteam.id##.affiliate_download_imagebutton_container
 zcteam.id##.zctea-p4
 zcteam.id##.yotu-playlist, .yotuwp, .yotu-limit-min, .yotu-limit-max, .yotu-player-full, .yotu-thumb-169, .yotu-template-grid
+brainly.lat###main-content > div.brn-qpage-layout__right.js-aside-content:nth-child(2) > div.js-react-aside-content.brn-ads-full-height.sg-flex.sg-flex--column
 brainly.lat##div.js-page-wrapper:nth-child(14) > div.sg-layout > div.js-react-feed-logged-in:nth-child(2) > div.sg-layout.sg-layout--wide.sg-layout--three-columns:first-child > div.sg-layout__container > div.sg-layout__content:nth-child(2) > div.sg-flex.sg-flex--margin-bottom-m:last-child > div.sg-box.sg-box--transparent.sg-box--border-color-gray-20.sg-box--no-shadow.sg-box--border-radius.sg-box--border.md\:sg-box--border-color-gray-20.lg\:sg-box--border-color-gray-20.xl\:sg-box--border-color-gray-20.brn-mobile-bottom-border > div.sg-flex.sg-flex--margin-top-m.sg-flex--margin-right-m.sg-flex--margin-bottom-l.sg-flex--margin-left-m:first-child
 brainly.lat##.FooterLayout-module__footer--UXVi0
