@@ -98,3 +98,4 @@ zcteam.id##.zctea-p4
 zcteam.id##.yotu-playlist, .yotuwp, .yotu-limit-min, .yotu-limit-max, .yotu-player-full, .yotu-thumb-169, .yotu-template-grid
 brainly.lat###main-content > div.brn-qpage-layout__right.js-aside-content:nth-child(2) > div.js-react-aside-content.brn-ads-full-height.sg-flex.sg-flex--column
 brainly.lat##.FooterLayout-module__footer--UXVi0
+brainly.lat##.sg-flex--margin-left-m.sg-flex--margin-bottom-l.sg-flex--margin-right-m.sg-flex--margin-top-m.sg-flex
