@@ -84,3 +84,4 @@ es.symbolab.com###show-hide-plot-div > a.show-hide-button.show-hide-plot.print-h
 es.symbolab.com###canvasZoom
 es.symbolab.com###solution_right
 brainly.lat##.Header-module__subnav--9AART
+brainly.lat##.FooterLayout-module__footer--UXVi0
