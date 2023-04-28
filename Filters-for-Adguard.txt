@@ -83,3 +83,4 @@ es.symbolab.com###Plot_dynaimc > div.solution_box.solution_outside_box:last-chil
 es.symbolab.com###show-hide-plot-div > a.show-hide-button.show-hide-plot.print-hide
 es.symbolab.com###canvasZoom
 es.symbolab.com###solution_right
+brainly.lat##.Header-module__subnav--9AART
