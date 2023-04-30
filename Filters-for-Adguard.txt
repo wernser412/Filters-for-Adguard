@@ -85,3 +85,4 @@ es.symbolab.com###canvasZoom
 es.symbolab.com###solution_right
 brainly.lat##.Header-module__subnav--9AART
 brainly.lat##.FooterLayout-module__footer--UXVi0
+brainly.lat##.brn-header-placeholder__subnav-wrapper
