@@ -1,50 +1,50 @@
-visortmo.com##footer
-visortmo.com##.badge-pill.badge-info.badge
-visortmo.com##.my-2.mx-1.px-4.py-2
-visortmo.com##.text-center.col-12 > .btn-primary.btn
-visortmo.com##.text-center.col-xs-12
-visortmo.com##.btn-social
-visortmo.com##.fa-cloud-download-alt
-visortmo.com##.flag-icon-es.flag-icon
-visortmo.com##.thumbnail-footer > div.no-gutters.text-center.row:nth-of-type(2) > div.col:nth-of-type(1)
-visortmo.com##.pt-2.sticky-top > .btn-block.btn-lg.btn-primary.btn
-visortmo.com##.score
-visortmo.com###fullWidthBtn
-visortmo.com###separatedBtn
-visortmo.com###fullScreenBtn
-visortmo.com##.abandoned
-visortmo.com###toggleLightDarkBtn
-visortmo.com###navbarDropdownTemplate
-visortmo.com##.alert-danger.alert
-visortmo.com###pills-populars-girls-tab
-visortmo.com###navbarsExampleDefault > ul.navbar-nav.mr-auto:first-child > li.nav-item:last-child
-visortmo.com###navbarsExampleDefault > ul.navbar-nav.mr-auto:first-child > li.nav-item:nth-child(2)
-visortmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-4.col-xl-3:last-child > div.mt-2:nth-child(8)
-visortmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-4.col-xl-3:last-child > div.mt-5.text-center:nth-child(7)
-visortmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-4.col-xl-3:last-child > div.mt-2.text-center:nth-child(6)
-visortmo.com###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:first-child > div.col-12.col-lg-8:first-child > div.row:nth-child(2) > div.col-12 > a.float-right.btn.btn-primary:first-child
-visortmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-8.col-xl-9:first-child > div.row:nth-child(7)
-visortmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-8.col-xl-9:first-child > div.row:nth-child(6)
-visortmo.com###pills-trending-girls-tab
-visortmo.com###navbarsExampleDefault > ul.navbar-nav:last-child > li.nav-item:first-child
-visortmo.com##div.px-1.d-inline:nth-of-type(3)
-visortmo.com##div.px-2.d-inline:nth-of-type(3)
-visortmo.com##div.px-2.d-inline:nth-of-type(4)
-visortmo.com##.wallpaper
-visortmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-4.col-xl-3:last-child
-visortmo.com###app > header:first-child > nav.navbar.navbar-fixed-top.navbar-light.bg-light.px-0 > div.row.d-flex.flex-row.justify-content-center.m-0.mx-auto.col-12 > div.d-inline.px-1:nth-child(2)
-visortmo.com###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:nth-child(2) > div.col-12.col-lg-8:first-child > div.row:nth-child(2)
-visortmo.com###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:nth-child(2) > div.col-12.col-lg-4:last-child
-visortmo.com###btn-uncheck-all
-visortmo.com##.follow
-visortmo.com##.watch
-visortmo.com##.wish
-visortmo.com##.fa-hand-holding-heart
-visortmo.com###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:nth-child(2)
-visortmo.com###app > section.container-fluid.text-center.bg-manga:nth-child(2) > div.row.align-items-center > div.col-12 > h2:nth-child(2) > a
-visortmo.com###app > section.container-fluid.text-center.bg-manhua:nth-child(2) > div.row.align-items-center > div.col-12 > h2:nth-child(2) > a
-visortmo.com###app > section.container-fluid.text-center.bg-manhwa:nth-child(2) > div.row.align-items-center > div.col-12 > h2:nth-child(2) > a
-visortmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-8.col-xl-9:first-child > div.row:nth-child(5)
+zonatmo.com##footer
+zonatmo.com##.badge-pill.badge-info.badge
+zonatmo.com##.my-2.mx-1.px-4.py-2
+zonatmo.com##.text-center.col-12 > .btn-primary.btn
+zonatmo.com##.text-center.col-xs-12
+zonatmo.com##.btn-social
+zonatmo.com##.fa-cloud-download-alt
+zonatmo.com##.flag-icon-es.flag-icon
+zonatmo.com##.thumbnail-footer > div.no-gutters.text-center.row:nth-of-type(2) > div.col:nth-of-type(1)
+zonatmo.com##.pt-2.sticky-top > .btn-block.btn-lg.btn-primary.btn
+zonatmo.com##.score
+zonatmo.com###fullWidthBtn
+zonatmo.com###separatedBtn
+zonatmo.com###fullScreenBtn
+zonatmo.com##.abandoned
+zonatmo.com###toggleLightDarkBtn
+zonatmo.com###navbarDropdownTemplate
+zonatmo.com##.alert-danger.alert
+zonatmo.com###pills-populars-girls-tab
+zonatmo.com###navbarsExampleDefault > ul.navbar-nav.mr-auto:first-child > li.nav-item:last-child
+zonatmo.com###navbarsExampleDefault > ul.navbar-nav.mr-auto:first-child > li.nav-item:nth-child(2)
+zonatmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-4.col-xl-3:last-child > div.mt-2:nth-child(8)
+zonatmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-4.col-xl-3:last-child > div.mt-5.text-center:nth-child(7)
+zonatmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-4.col-xl-3:last-child > div.mt-2.text-center:nth-child(6)
+zonatmo.com###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:first-child > div.col-12.col-lg-8:first-child > div.row:nth-child(2) > div.col-12 > a.float-right.btn.btn-primary:first-child
+zonatmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-8.col-xl-9:first-child > div.row:nth-child(7)
+zonatmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-8.col-xl-9:first-child > div.row:nth-child(6)
+zonatmo.com###pills-trending-girls-tab
+zonatmo.com###navbarsExampleDefault > ul.navbar-nav:last-child > li.nav-item:first-child
+zonatmo.com##div.px-1.d-inline:nth-of-type(3)
+zonatmo.com##div.px-2.d-inline:nth-of-type(3)
+zonatmo.com##div.px-2.d-inline:nth-of-type(4)
+zonatmo.com##.wallpaper
+zonatmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-4.col-xl-3:last-child
+zonatmo.com###app > header:first-child > nav.navbar.navbar-fixed-top.navbar-light.bg-light.px-0 > div.row.d-flex.flex-row.justify-content-center.m-0.mx-auto.col-12 > div.d-inline.px-1:nth-child(2)
+zonatmo.com###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:nth-child(2) > div.col-12.col-lg-8:first-child > div.row:nth-child(2)
+zonatmo.com###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:nth-child(2) > div.col-12.col-lg-4:last-child
+zonatmo.com###btn-uncheck-all
+zonatmo.com##.follow
+zonatmo.com##.watch
+zonatmo.com##.wish
+zonatmo.com##.fa-hand-holding-heart
+zonatmo.com###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:nth-child(2)
+zonatmo.com###app > section.container-fluid.text-center.bg-manga:nth-child(2) > div.row.align-items-center > div.col-12 > h2:nth-child(2) > a
+zonatmo.com###app > section.container-fluid.text-center.bg-manhua:nth-child(2) > div.row.align-items-center > div.col-12 > h2:nth-child(2) > a
+zonatmo.com###app > section.container-fluid.text-center.bg-manhwa:nth-child(2) > div.row.align-items-center > div.col-12 > h2:nth-child(2) > a
+zonatmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-8.col-xl-9:first-child > div.row:nth-child(5)
 tmohentai.com##.footer-section
 tmohentai.com##.btn-block.btn-warning.btn
 tmohentai.com##.rating-animate.rating-md.rating-container
