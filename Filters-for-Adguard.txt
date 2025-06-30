@@ -1,5 +1,5 @@
-! Filtro personalizado por wernser412
-! Fecha: 30/06/2025
+! Title: Filtro personalizado por wernser412
+! Version: 30/06/2025
 
 zonatmo.com##footer
 zonatmo.com##.badge-pill.badge-info.badge
