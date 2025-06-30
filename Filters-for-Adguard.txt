@@ -1,3 +1,6 @@
+! Filtro personalizado por wernser412
+! Fecha: 30/06/2025
+
 zonatmo.com##footer
 zonatmo.com##.badge-pill.badge-info.badge
 zonatmo.com##.my-2.mx-1.px-4.py-2
@@ -83,6 +86,4 @@ es.symbolab.com###Plot_dynaimc > div.solution_box.solution_outside_box:last-chil
 es.symbolab.com###show-hide-plot-div > a.show-hide-button.show-hide-plot.print-hide
 es.symbolab.com###canvasZoom
 es.symbolab.com###solution_right
-brainly.lat##.Header-module__subnav--9AART
-brainly.lat##.FooterLayout-module__footer--UXVi0
-brainly.lat##.brn-header-placeholder__subnav-wrapper
+es.luxuretv.com###ul-comments
