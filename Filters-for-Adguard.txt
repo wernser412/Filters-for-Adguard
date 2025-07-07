@@ -88,5 +88,5 @@ es.symbolab.com###canvasZoom
 es.symbolab.com###solution_right
 es.luxuretv.com###ul-comments
 
-! Filtros mas personalizado: Ocultar todo relcionado a yaoi
+! Filtros personalizado: Ocultar todo relcionado a yaoi
 tmohentai.com##.element-thumbnail:has(span.data-type-yaoi)
