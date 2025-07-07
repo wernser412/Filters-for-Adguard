@@ -1,5 +1,5 @@
 ! Title: Filtro personalizado por wernser412
-! Version: 30/06/2025
+! Version: 06/07/2025
 
 zonatmo.com##footer
 zonatmo.com##.badge-pill.badge-info.badge
@@ -87,3 +87,6 @@ es.symbolab.com###show-hide-plot-div > a.show-hide-button.show-hide-plot.print-h
 es.symbolab.com###canvasZoom
 es.symbolab.com###solution_right
 es.luxuretv.com###ul-comments
+
+! Filtros mas personalizado (Ocultar todo relcionado a yaoi)
+tmohentai.com##.element-thumbnail:has(span.data-type-yaoi)
