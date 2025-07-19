@@ -1,5 +1,5 @@
 ! Title: Filtro personalizado por wernser412
-! Version: 06/07/2025
+! Version: 18/07/2025
 
 zonatmo.com##footer
 zonatmo.com##.badge-pill.badge-info.badge
@@ -90,3 +90,8 @@ es.luxuretv.com###ul-comments
 
 ! Filtros personalizado: Ocultar todo relcionado a yaoi
 tmohentai.com##.element-thumbnail:has(span.data-type-yaoi)
+
+! Filtros personalizado: Reemplazar la letra "¬" por "~"
+! Especifico: logica.fcalzado.es##+js(if, location.href.includes("/tema/32-generador-de-tablas-de-verdad"), rn, ¬, ~)
+logica.fcalzado.es##+js(rn, ¬, ~)
+sublime.tools##+js(rn, ¬, ~)
