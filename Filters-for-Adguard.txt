@@ -90,8 +90,3 @@ es.luxuretv.com###ul-comments
 
 ! Filtros personalizado: Ocultar todo relcionado a yaoi
 tmohentai.com##.element-thumbnail:has(span.data-type-yaoi)
-
-! Filtros personalizado: Reemplazar la letra "¬" por "~"
-! Especifico: logica.fcalzado.es##+js(if, location.href.includes("/tema/32-generador-de-tablas-de-verdad"), rn, ¬, ~)
-logica.fcalzado.es##+js(rn, ¬, ~)
-sublime.tools##+js(rn, ¬, ~)
