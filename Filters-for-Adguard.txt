@@ -1,5 +1,5 @@
 ! Title: Filtro personalizado por wernser412
-! Version: 01/01/2026
+! Version: 2026.01.01
 
 zonatmo.com##footer
 zonatmo.com##.badge-pill.badge-info.badge
