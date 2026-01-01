@@ -1,5 +1,5 @@
 ! Title: Filtro personalizado por wernser412
-! Version: 18/07/2025
+! Version: 01/01/2026
 
 zonatmo.com##footer
 zonatmo.com##.badge-pill.badge-info.badge
@@ -90,3 +90,9 @@ es.luxuretv.com###ul-comments
 
 ! Filtros personalizado: Ocultar todo relcionado a yaoi
 tmohentai.com##.element-thumbnail:has(span.data-type-yaoi)
+
+! Filtros personalizado: Quitar los comentarios
+##.idc-comments:style(display:block!important;)
+##.idc-comments *:style(display:none!important;)
+##.idc-comments:before:style(content:"💬 Comentarios removidos";display:block;background:#222831;color:#00ffcc;padding:12px;margin:16px 0;border-radius:8px;font-weight:bold;text-align:center;font-size:14px;)
+
