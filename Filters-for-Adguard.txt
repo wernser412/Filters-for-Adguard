@@ -1,68 +1,68 @@
 ! Title: Filtro personalizado por wernser412
-! Version: 2026.01.01
+! Version: 2026.04.28
 
-zonatmo.com##footer
-zonatmo.com##.badge-pill.badge-info.badge
-zonatmo.com##.my-2.mx-1.px-4.py-2
-zonatmo.com##.text-center.col-12 > .btn-primary.btn
-zonatmo.com##.text-center.col-xs-12
-zonatmo.com##.btn-social
-zonatmo.com##.fa-cloud-download-alt
-zonatmo.com##.flag-icon-es.flag-icon
-zonatmo.com##.thumbnail-footer > div.no-gutters.text-center.row:nth-of-type(2) > div.col:nth-of-type(1)
-zonatmo.com##.pt-2.sticky-top > .btn-block.btn-lg.btn-primary.btn
-zonatmo.com##.score
-zonatmo.com###fullWidthBtn
-zonatmo.com###separatedBtn
-zonatmo.com###fullScreenBtn
-zonatmo.com##.abandoned
-zonatmo.com###toggleLightDarkBtn
-zonatmo.com###navbarDropdownTemplate
-zonatmo.com##.alert-danger.alert
-zonatmo.com###pills-populars-girls-tab
-zonatmo.com###navbarsExampleDefault > ul.navbar-nav.mr-auto:first-child > li.nav-item:last-child
-zonatmo.com###navbarsExampleDefault > ul.navbar-nav.mr-auto:first-child > li.nav-item:nth-child(2)
-zonatmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-4.col-xl-3:last-child > div.mt-2:nth-child(8)
-zonatmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-4.col-xl-3:last-child > div.mt-5.text-center:nth-child(7)
-zonatmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-4.col-xl-3:last-child > div.mt-2.text-center:nth-child(6)
-zonatmo.com###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:first-child > div.col-12.col-lg-8:first-child > div.row:nth-child(2) > div.col-12 > a.float-right.btn.btn-primary:first-child
-zonatmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-8.col-xl-9:first-child > div.row:nth-child(7)
-zonatmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-8.col-xl-9:first-child > div.row:nth-child(6)
-zonatmo.com###pills-trending-girls-tab
-zonatmo.com###navbarsExampleDefault > ul.navbar-nav:last-child > li.nav-item:first-child
-zonatmo.com##div.px-1.d-inline:nth-of-type(3)
-zonatmo.com##div.px-2.d-inline:nth-of-type(3)
-zonatmo.com##div.px-2.d-inline:nth-of-type(4)
-zonatmo.com##.wallpaper
-zonatmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-4.col-xl-3:last-child
-zonatmo.com###app > header:first-child > nav.navbar.navbar-fixed-top.navbar-light.bg-light.px-0 > div.row.d-flex.flex-row.justify-content-center.m-0.mx-auto.col-12 > div.d-inline.px-1:nth-child(2)
-zonatmo.com###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:nth-child(2) > div.col-12.col-lg-8:first-child > div.row:nth-child(2)
-zonatmo.com###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:nth-child(2) > div.col-12.col-lg-4:last-child
-zonatmo.com###btn-uncheck-all
-zonatmo.com##.follow
-zonatmo.com##.watch
-zonatmo.com##.wish
-zonatmo.com##.fa-hand-holding-heart
-zonatmo.com###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:nth-child(2)
-zonatmo.com###app > section.container-fluid.text-center.bg-manga:nth-child(2) > div.row.align-items-center > div.col-12 > h2:nth-child(2) > a
-zonatmo.com###app > section.container-fluid.text-center.bg-manhua:nth-child(2) > div.row.align-items-center > div.col-12 > h2:nth-child(2) > a
-zonatmo.com###app > section.container-fluid.text-center.bg-manhwa:nth-child(2) > div.row.align-items-center > div.col-12 > h2:nth-child(2) > a
-zonatmo.com###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-8.col-xl-9:first-child > div.row:nth-child(5)
-tmohentai.com##.footer-section
-tmohentai.com##.btn-block.btn-warning.btn
-tmohentai.com##.rating-animate.rating-md.rating-container
-tmohentai.com##.rating-info
-tmohentai.com##.chat
+zonatmo.org##footer
+zonatmo.org##.badge-pill.badge-info.badge
+zonatmo.org##.my-2.mx-1.px-4.py-2
+zonatmo.org##.text-center.col-12 > .btn-primary.btn
+zonatmo.org##.text-center.col-xs-12
+zonatmo.org##.btn-social
+zonatmo.org##.fa-cloud-download-alt
+zonatmo.org##.flag-icon-es.flag-icon
+zonatmo.org##.thumbnail-footer > div.no-gutters.text-center.row:nth-of-type(2) > div.col:nth-of-type(1)
+zonatmo.org##.pt-2.sticky-top > .btn-block.btn-lg.btn-primary.btn
+zonatmo.org##.score
+zonatmo.org###fullWidthBtn
+zonatmo.org###separatedBtn
+zonatmo.org###fullScreenBtn
+zonatmo.org##.abandoned
+zonatmo.org###toggleLightDarkBtn
+zonatmo.org###navbarDropdownTemplate
+zonatmo.org##.alert-danger.alert
+zonatmo.org###pills-populars-girls-tab
+zonatmo.org###navbarsExampleDefault > ul.navbar-nav.mr-auto:first-child > li.nav-item:last-child
+zonatmo.org###navbarsExampleDefault > ul.navbar-nav.mr-auto:first-child > li.nav-item:nth-child(2)
+zonatmo.org###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-4.col-xl-3:last-child > div.mt-2:nth-child(8)
+zonatmo.org###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-4.col-xl-3:last-child > div.mt-5.text-center:nth-child(7)
+zonatmo.org###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-4.col-xl-3:last-child > div.mt-2.text-center:nth-child(6)
+zonatmo.org###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:first-child > div.col-12.col-lg-8:first-child > div.row:nth-child(2) > div.col-12 > a.float-right.btn.btn-primary:first-child
+zonatmo.org###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-8.col-xl-9:first-child > div.row:nth-child(7)
+zonatmo.org###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-8.col-xl-9:first-child > div.row:nth-child(6)
+zonatmo.org###pills-trending-girls-tab
+zonatmo.org###navbarsExampleDefault > ul.navbar-nav:last-child > li.nav-item:first-child
+zonatmo.org##div.px-1.d-inline:nth-of-type(3)
+zonatmo.org##div.px-2.d-inline:nth-of-type(3)
+zonatmo.org##div.px-2.d-inline:nth-of-type(4)
+zonatmo.org##.wallpaper
+zonatmo.org###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-4.col-xl-3:last-child
+zonatmo.org###app > header:first-child > nav.navbar.navbar-fixed-top.navbar-light.bg-light.px-0 > div.row.d-flex.flex-row.justify-content-center.m-0.mx-auto.col-12 > div.d-inline.px-1:nth-child(2)
+zonatmo.org###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:nth-child(2) > div.col-12.col-lg-8:first-child > div.row:nth-child(2)
+zonatmo.org###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:nth-child(2) > div.col-12.col-lg-4:last-child
+zonatmo.org###btn-uncheck-all
+zonatmo.org##.follow
+zonatmo.org##.watch
+zonatmo.org##.wish
+zonatmo.org##.fa-hand-holding-heart
+zonatmo.org###app > section.element:nth-child(2) > main.container-fluid.element-body:last-child > div.container.p-0.p-sm-2 > div.row:nth-child(2)
+zonatmo.org###app > section.container-fluid.text-center.bg-manga:nth-child(2) > div.row.align-items-center > div.col-12 > h2:nth-child(2) > a
+zonatmo.org###app > section.container-fluid.text-center.bg-manhua:nth-child(2) > div.row.align-items-center > div.col-12 > h2:nth-child(2) > a
+zonatmo.org###app > section.container-fluid.text-center.bg-manhwa:nth-child(2) > div.row.align-items-center > div.col-12 > h2:nth-child(2) > a
+zonatmo.org###app > main.container-fluid:last-child > div.row:last-child > div.col-12.col-lg-8.col-xl-9:first-child > div.row:nth-child(5)
+tmohentai.app##footer-section
+tmohentai.app##btn-block.btn-warning.btn
+tmohentai.app##rating-animate.rating-md.rating-container
+tmohentai.app##rating-info
+tmohentai.app##chat
 tmohentai.com##li.dropdown:nth-of-type(1) > .text-center.dropdown-toggle
 tmohentai.com##li.dropdown:nth-of-type(3) > .text-center.dropdown-toggle
 tmohentai.com##div.row:nth-of-type(3) > .col-md-offset-1.col-md-10 > .panel-primary.panel
-tmohentai.com##.col-md-offset-1.col-md-10.col-sm-12 > .panel-primary.panel
-tmohentai.com##.nav-justified.navbar-nav.nav > li:nth-of-type(2)
+tmohentai.app##col-md-offset-1.col-md-10.col-sm-12 > .panel-primary.panel
+tmohentai.app##nav-justified.navbar-nav.nav > li:nth-of-type(2)
 tmohentai.com###app > div.container:last-child > div.row:last-child > div.col-xs-12:last-child > div.col-xs-12.col-sm-4:first-child > div.row.text-center:nth-child(2) > div.col-xs-12 > div.row:nth-child(4)
 tmohentai.com###app-navbar-collapse > ul.nav.navbar-nav:first-child > li:nth-child(5)
 tmohentai.com###app-navbar-collapse > ul.nav.navbar-nav:first-child > li:nth-child(2)
 tmohentai.com###app-navbar-collapse > ul.nav.navbar-nav:first-child > li:last-child
-tmohentai.com##.col-xs-8
+tmohentai.app##col-xs-8
 tmohentai.com###rate-content
 diakov.net##div.container.cnt:nth-child(4) > div.row.my:nth-child(2) > div.col-md-12.col-lg-4.col-xl-2.my:last-child > div.mnu:nth-child(2)
 diakov.net##div.container.cnt:nth-child(4) > div.row.my:nth-child(2) > div.col-md-12.col-lg-4.col-xl-2.my:last-child > div.card.mb15:nth-child(4)
@@ -89,7 +89,7 @@ es.symbolab.com###solution_right
 es.luxuretv.com###ul-comments
 
 ! Filtros personalizado: Ocultar todo relcionado a yaoi
-tmohentai.com##.element-thumbnail:has(span.data-type-yaoi)
+tmohentai.app##element-thumbnail:has(span.data-type-yaoi)
 
 ! Filtros personalizado: Quitar los comentarios
 ##.idc-comments:style(display:block!important;)
